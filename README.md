@@ -1,4 +1,3 @@
 - 👋 olá menu nome é Paulo
-- 👀 estou interessado em obter minha primeira oportunidade como desenvolvedor / programador
-- 🌱 atualmente estou aprendendo a linguagem Java e sql 
+- 👀 Atuo Atualmente com c#/.Net
 -
